@@ -1,0 +1,15 @@
+G:\Pramila\ExtraaEdge.CRM.WebAPI\ExtraaEdge.CRM.BusinessLayerr\bin\Debug\ExtraaEdge.CRM.BusinessLayerr.exe.config
+G:\Pramila\ExtraaEdge.CRM.WebAPI\ExtraaEdge.CRM.BusinessLayerr\bin\Debug\ExtraaEdge.CRM.BusinessLayerr.exe
+G:\Pramila\ExtraaEdge.CRM.WebAPI\ExtraaEdge.CRM.BusinessLayerr\bin\Debug\ExtraaEdge.CRM.BusinessLayerr.pdb
+G:\Pramila\ExtraaEdge.CRM.WebAPI\ExtraaEdge.CRM.BusinessLayerr\bin\Debug\ExtraaEdge.CRM.Repositoy.dll
+G:\Pramila\ExtraaEdge.CRM.WebAPI\ExtraaEdge.CRM.BusinessLayerr\bin\Debug\EntityFramework.dll
+G:\Pramila\ExtraaEdge.CRM.WebAPI\ExtraaEdge.CRM.BusinessLayerr\bin\Debug\ExtraaEdge.CRM.Repositoy.pdb
+G:\Pramila\ExtraaEdge.CRM.WebAPI\ExtraaEdge.CRM.BusinessLayerr\bin\Debug\ExtraaEdge.CRM.Repositoy.dll.config
+G:\Pramila\ExtraaEdge.CRM.WebAPI\ExtraaEdge.CRM.BusinessLayerr\bin\Debug\EntityFramework.xml
+G:\Pramila\ExtraaEdge.CRM.WebAPI\ExtraaEdge.CRM.BusinessLayerr\obj\Debug\ExtraaEdge.CRM.BusinessLayer.csprojAssemblyReference.cache
+G:\Pramila\ExtraaEdge.CRM.WebAPI\ExtraaEdge.CRM.BusinessLayerr\obj\Debug\ExtraaEdge.CRM.BusinessLayer.csproj.CopyComplete
+G:\Pramila\ExtraaEdge.CRM.WebAPI\ExtraaEdge.CRM.BusinessLayerr\obj\Debug\ExtraaEdge.CRM.BusinessLayerr.exe
+G:\Pramila\ExtraaEdge.CRM.WebAPI\ExtraaEdge.CRM.BusinessLayerr\obj\Debug\ExtraaEdge.CRM.BusinessLayerr.pdb
+G:\Pramila\ExtraaEdge.CRM.WebAPI\ExtraaEdge.CRM.BusinessLayerr\bin\Debug\ExtraaEdge.CRM.EntityModell.dll
+G:\Pramila\ExtraaEdge.CRM.WebAPI\ExtraaEdge.CRM.BusinessLayerr\bin\Debug\ExtraaEdge.CRM.EntityModell.pdb
+G:\Pramila\ExtraaEdge.CRM.WebAPI\ExtraaEdge.CRM.BusinessLayerr\bin\Debug\ExtraaEdge.CRM.EntityModell.dll.config

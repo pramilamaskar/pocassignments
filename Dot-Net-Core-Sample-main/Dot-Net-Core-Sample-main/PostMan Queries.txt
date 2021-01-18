@@ -1,0 +1,13 @@
+//GetSalesReport
+https://localhost:44366/api/GetSalesReport?FromDate=''2020-01-01"&ReportPeriodType=1
+
+//Add
+https://localhost:44366/api/AddSale/
+
+
+//Update
+https://localhost:44366/api/GetSalesReport/UpdateSale
+
+
+//Remove
+https://localhost:44366/api/GetSalesReport/RemoveSale?SaleOrderId=1

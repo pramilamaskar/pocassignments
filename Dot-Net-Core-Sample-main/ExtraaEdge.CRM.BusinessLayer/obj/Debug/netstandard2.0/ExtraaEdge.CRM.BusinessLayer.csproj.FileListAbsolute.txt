@@ -1,0 +1,8 @@
+G:\Pramila\ExtraaEdge.CRM.WebAPI\ExtraaEdge.CRM.BusinessLayer\bin\Debug\netstandard2.0\ExtraaEdge.CRM.BusinessLayer.deps.json
+G:\Pramila\ExtraaEdge.CRM.WebAPI\ExtraaEdge.CRM.BusinessLayer\bin\Debug\netstandard2.0\ExtraaEdge.CRM.BusinessLayer.dll
+G:\Pramila\ExtraaEdge.CRM.WebAPI\ExtraaEdge.CRM.BusinessLayer\bin\Debug\netstandard2.0\ExtraaEdge.CRM.BusinessLayer.pdb
+G:\Pramila\ExtraaEdge.CRM.WebAPI\ExtraaEdge.CRM.BusinessLayer\obj\Debug\netstandard2.0\ExtraaEdge.CRM.BusinessLayer.csprojAssemblyReference.cache
+G:\Pramila\ExtraaEdge.CRM.WebAPI\ExtraaEdge.CRM.BusinessLayer\obj\Debug\netstandard2.0\ExtraaEdge.CRM.BusinessLayer.AssemblyInfoInputs.cache
+G:\Pramila\ExtraaEdge.CRM.WebAPI\ExtraaEdge.CRM.BusinessLayer\obj\Debug\netstandard2.0\ExtraaEdge.CRM.BusinessLayer.AssemblyInfo.cs
+G:\Pramila\ExtraaEdge.CRM.WebAPI\ExtraaEdge.CRM.BusinessLayer\obj\Debug\netstandard2.0\ExtraaEdge.CRM.BusinessLayer.dll
+G:\Pramila\ExtraaEdge.CRM.WebAPI\ExtraaEdge.CRM.BusinessLayer\obj\Debug\netstandard2.0\ExtraaEdge.CRM.BusinessLayer.pdb

@@ -1,0 +1,7 @@
+G:\Pramila\ExtraaEdge.CRM.WebAPI\ExtraaEdge.CRM.EntityModel\bin\Debug\netstandard2.0\ExtraaEdge.CRM.EntityModel.deps.json
+G:\Pramila\ExtraaEdge.CRM.WebAPI\ExtraaEdge.CRM.EntityModel\bin\Debug\netstandard2.0\ExtraaEdge.CRM.EntityModel.dll
+G:\Pramila\ExtraaEdge.CRM.WebAPI\ExtraaEdge.CRM.EntityModel\bin\Debug\netstandard2.0\ExtraaEdge.CRM.EntityModel.pdb
+G:\Pramila\ExtraaEdge.CRM.WebAPI\ExtraaEdge.CRM.EntityModel\obj\Debug\netstandard2.0\ExtraaEdge.CRM.EntityModel.AssemblyInfoInputs.cache
+G:\Pramila\ExtraaEdge.CRM.WebAPI\ExtraaEdge.CRM.EntityModel\obj\Debug\netstandard2.0\ExtraaEdge.CRM.EntityModel.AssemblyInfo.cs
+G:\Pramila\ExtraaEdge.CRM.WebAPI\ExtraaEdge.CRM.EntityModel\obj\Debug\netstandard2.0\ExtraaEdge.CRM.EntityModel.dll
+G:\Pramila\ExtraaEdge.CRM.WebAPI\ExtraaEdge.CRM.EntityModel\obj\Debug\netstandard2.0\ExtraaEdge.CRM.EntityModel.pdb

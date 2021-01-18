@@ -1,0 +1,8 @@
+G:\Pramila\ExtraaEdge.CRM.WebAPI\ExtraaEdge.CRM.Common.Utils\bin\Debug\netstandard2.0\ExtraaEdge.CRM.Common.Utils.deps.json
+G:\Pramila\ExtraaEdge.CRM.WebAPI\ExtraaEdge.CRM.Common.Utils\bin\Debug\netstandard2.0\ExtraaEdge.CRM.Common.Utils.dll
+G:\Pramila\ExtraaEdge.CRM.WebAPI\ExtraaEdge.CRM.Common.Utils\bin\Debug\netstandard2.0\ExtraaEdge.CRM.Common.Utils.pdb
+G:\Pramila\ExtraaEdge.CRM.WebAPI\ExtraaEdge.CRM.Common.Utils\obj\Debug\netstandard2.0\ExtraaEdge.CRM.Common.Utils.AssemblyInfoInputs.cache
+G:\Pramila\ExtraaEdge.CRM.WebAPI\ExtraaEdge.CRM.Common.Utils\obj\Debug\netstandard2.0\ExtraaEdge.CRM.Common.Utils.AssemblyInfo.cs
+G:\Pramila\ExtraaEdge.CRM.WebAPI\ExtraaEdge.CRM.Common.Utils\obj\Debug\netstandard2.0\ExtraaEdge.CRM.Common.Utils.dll
+G:\Pramila\ExtraaEdge.CRM.WebAPI\ExtraaEdge.CRM.Common.Utils\obj\Debug\netstandard2.0\ExtraaEdge.CRM.Common.Utils.pdb
+G:\Pramila\ExtraaEdge.CRM.WebAPI\ExtraaEdge.CRM.Common.Utils\obj\Debug\netstandard2.0\ExtraaEdge.CRM.Common.Utils.csprojAssemblyReference.cache

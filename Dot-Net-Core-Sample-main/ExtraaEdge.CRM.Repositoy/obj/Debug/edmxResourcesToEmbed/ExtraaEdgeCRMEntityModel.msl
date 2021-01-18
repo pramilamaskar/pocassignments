@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ExtraaEdgeCRMModelStoreContainer" CdmEntityContainer="ExtraaEdgeCRMEntities">
+    <EntitySetMapping Name="SALES">
+      <EntityTypeMapping TypeName="ExtraaEdgeCRMModel.SALE">
+        <MappingFragment StoreEntitySet="SALES">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="SALES_ORDER_DATE" ColumnName="SALES_ORDER_DATE" />
+          <ScalarProperty Name="Company" ColumnName="Company" />
+          <ScalarProperty Name="AMOUNT" ColumnName="AMOUNT" />
+          <ScalarProperty Name="PLANNED" ColumnName="PLANNED" />
+          <ScalarProperty Name="COST" ColumnName="COST" />
+          <ScalarProperty Name="CREATED_BY" ColumnName="CREATED_BY" />
+          <ScalarProperty Name="CREATED_ON" ColumnName="CREATED_ON" />
+          <ScalarProperty Name="UPDATED_BY" ColumnName="UPDATED_BY" />
+          <ScalarProperty Name="UPDATED_ON" ColumnName="UPDATED_ON" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
